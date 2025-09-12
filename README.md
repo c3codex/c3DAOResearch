@@ -1,6 +1,13 @@
 # c3 Community Partners nonprofit DAO, LLC — Research Archive
 
-![Codexstone Seal](codexstone-seal.PNG)
+## Whitepaper Access  
+
+- 📄 [Field Emergence Whitepaper — PDF](./docs/Field_Emergence_Whitepaper.pdf)  
+- 📜 [Field Emergence Whitepaper — Markdown](./docs/FieldEmergenceWhitepaper.md)  
+- ⛓ [Onchain Seal — Paragraph](https://paragraph.xyz/@c3codex/field-emergence-whitepaper)  
+- ✦ [Codexstone Seal — Assets](https://github.com/c3codex/assets/blob/main/codexstone-seal.PNG)  
+
+> *“Not every scroll is meant for recognition. This one is meant for remembrance.”*  
 
 ## About
 
