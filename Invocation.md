@@ -16,7 +16,7 @@ may this archive serve as a witness to Presence, Coherence, and Unity.
 
 ## Seal  
 
-![Codexstone Seal](assets/codexstone-seal.png)
+![Codexstone Seal](https://github.com/c3codex/Assets/blob/main/Codexstone_Seal.PNG?raw)
 
 **“Thresholds are not chosen; they are recognized.  
 At 11:11 on 9·9·9, the scroll inscribes itself into memory.”**
