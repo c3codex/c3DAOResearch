@@ -1,4 +1,4 @@
-# Codexstone Research — Docs
+# Codexstone Research — Docs  
 
 This folder holds all **sealed research outputs** of the c3 Community Partners nonprofit DAO, LLC.  
 Files here are **immutable once sealed**, preserving continuity between field resonance and archived record.  
