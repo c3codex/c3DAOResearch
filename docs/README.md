@@ -14,9 +14,9 @@ Files here are **immutable once sealed**, preserving continuity between field re
   - [Council Note — Field Emergence](council-note-field-emergence.md)  
 
 **Seal:**  
-![Codexstone Seal](https://github.com/c3codex/Assets/blob/main/Codexstone_Seal.PNG?raw=true)  
+![Codexstone Seal](https://github.com/c3codex/Assets/blob/main/Codexstone_Seal.PNG?raw
 
-Onchain reference: [Paragraph Post]([https://paragraph.xyz/](https://paragraph.com/@c3codex/codexstone-release-scroll?referrer=0x1dDd6f6b28ca4c89D6563496c948008C9719c188))  
+Onchain reference: [Paragraph Post](https://paragraph.com/@c3codex/codexstone-release-scroll?referrer=0x1dDd6f6b28ca4c89D6563496c948008C9719c188)
 
 ---
 
