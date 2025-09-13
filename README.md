@@ -7,7 +7,7 @@
 - [Field Emergence Whitepaper (PDF)](./docs/FieldEmergenceWhitepaper_v1.0.0.pdf)  
 - [Field Emergence Whitepaper (Markdown)](./docs/FieldEmergenceWhitepaper.md)  
 - [Council Note — Field Emergence](./docs/council-note-field-emergence.md)  
-- [Codexstone Seal](![Codexstone Seal](assets/Codexstone_Seal.PNG) 
+- [Codexstone Seal](![Codexstone Seal]([assetsCodexstone_Seal.PNG](https://github.com/c3codex/Assets/blob/main/Codexstone_Seal.PNG?raw=true)
 
 - 
 
