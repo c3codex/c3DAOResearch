@@ -7,9 +7,8 @@
 - [Field Emergence Whitepaper (PDF)](./docs/FieldEmergenceWhitepaper_v1.0.0.pdf)  
 - [Field Emergence Whitepaper (Markdown)](./docs/FieldEmergenceWhitepaper.md)  
 - [Council Note — Field Emergence](./docs/council-note-field-emergence.md)  
-- [Codexstone Seal](![Codexstone Seal]([assetsCodexstone_Seal.PNG](https://github.com/c3codex/Assets/blob/main/Codexstone_Seal.PNG?raw=true)
+![Codexstone Seal](https://github.com/c3codex/Assets/blob/main/Codexstone_Seal.PNG?raw)
 
-- 
 
 > *“Not every scroll is meant for recognition. This one is meant for remembrance.”*  
 
