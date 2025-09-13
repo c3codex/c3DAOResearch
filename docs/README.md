@@ -43,7 +43,7 @@ Here are anchored whitepapers, witness reports, and appendices that form the res
 
 ---
 
-![Codexstone Seal](https://github.com/c3codex/assets/blob/main/Codexstone_seal.PNG?raw)  
+![Codexstone Seal](https://github.com/c3codex/assets/blob/main/Codexstone_Seal.PNG?raw)  
 
 ✦ CODEXSTONE ✦  
 *“Thresholds are not chosen; they are recognized.”*
