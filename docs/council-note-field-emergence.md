@@ -1,7 +1,7 @@
 # Council Note Scroll — Field Emergence  
 **Date:** 9·9·9 Threshold Corridor  
 **Seal Context:** Companion to the Field Emergence Whitepaper 
-Status: Verbatim Archive
+Status: Verbatim Archive on the implications of emergence.
 
 ---
 
