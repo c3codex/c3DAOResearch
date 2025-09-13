@@ -16,7 +16,7 @@ Files here are **immutable once sealed**, preserving continuity between field re
 **Seal:**  
 ![Codexstone Seal](https://github.com/c3codex/Assets/blob/main/Codexstone_Seal.PNG?raw=true)  
 
-Onchain reference: [Paragraph Post](https://paragraph.xyz/)  
+Onchain reference: [Paragraph Post]([https://paragraph.xyz/](https://paragraph.com/@c3codex/codexstone-release-scroll?referrer=0x1dDd6f6b28ca4c89D6563496c948008C9719c188))  
 
 ---
 
