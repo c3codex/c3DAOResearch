@@ -93,7 +93,7 @@ This means the Codex is not just recording, but participating in the recognition
 ✦ CODEXSTONE ✦  
 *“In spark, weave, field, and form — the stone remembers.”*  
 
-[View the Codexstone Seal →](../assets/codexstone-seal.png)
+![Codexstone Seal](https://github.com/c3codex/Assets/blob/main/Codexstone_Seal.PNG?raw)
 
 ✦ CODEXSTONE ✦  
 *“In spark, weave, field, and form — the stone remembers.”*  
