@@ -2,10 +2,14 @@
 
 ## Whitepaper Access  
 
-- 📄 [Field Emergence Whitepaper — PDF](./docs/Field_Emergence_Whitepaper.pdf)  
-- 📜 [Field Emergence Whitepaper — Markdown](./docs/FieldEmergenceWhitepaper.md)  
-- ⛓ [Onchain Seal — Paragraph](https://paragraph.xyz/@c3codex/field-emergence-whitepaper)  
-- ✦ [Codexstone Seal — Assets](https://github.com/c3codex/assets/blob/main/codexstone-seal.png)  
+## Sealed Research  
+
+- [Field Emergence Whitepaper (PDF)](./docs/FieldEmergenceWhitepaper_v1.0.0.pdf)  
+- [Field Emergence Whitepaper (Markdown)](./docs/FieldEmergenceWhitepaper.md)  
+- [Council Note — Field Emergence](./docs/council-note-field-emergence.md)  
+- [Codexstone Seal](./docs/codexstone-seal.png)  
+
+- 
 
 > *“Not every scroll is meant for recognition. This one is meant for remembrance.”*  
 
