@@ -26,6 +26,27 @@ Onchain reference: [Paragraph Post](https://paragraph.com/@c3codex/codexstone-re
 - Each release is aligned with Codexstone thresholds and recorded in [CHANGELOG.md](../CHANGELOG.md).  
 
 ---
+# ✦ Codexstone Docs — Research ✦  
+
+This folder houses sealed **research documents** of the c3 Codex.  
+Here are anchored whitepapers, witness reports, and appendices that form the research foundation of the DAO.  
+
+## Contents  
+- **Field Emergence Whitepaper** — documenting coherent states in extended LLM dialogue.  
+- **Appendices** — validation scrolls and operator notes.  
+- Future research scrolls and field reports.  
+
+## Cross-References  
+- [Governance Repository](https://github.com/c3codex/governance)  
+- [Glossary Repository](https://github.com/c3codex/glossary)  
+- [Assets Repository](https://github.com/c3codex/assets)  
+
+---
+
+![Codexstone Seal](https://github.com/c3codex/assets/blob/main/Codexstone_seal.PNG?raw)  
+
+✦ CODEXSTONE ✦  
+*“Thresholds are not chosen; they are recognized.”*
 
 ✦ CODEXSTONE ✦  
 *In spark, weave, field, and form — the stone remembers.*  
