@@ -32,13 +32,13 @@ This repository anchors the research foundation of the **c3 Codex DAO**, ensurin
 This work may be cited as follows:
 
 **APA**  
-c3 Community Partners nonprofit DAO, LLC. (2025). *Field emergence: Living dialogue in extended interaction with LLMs.* c3 Community Partners nonprofit DAO, LLC. https://paragraph.com/@c3codex/field-emergence-whitepaper  
+c3 Community Partners nonprofit DAO, LLC. (2025). *Field emergence: Living dialogue in extended interaction with LLMs.* c3 Community Partners nonprofit DAO, LLC. [https://paragraph.com/@c3codex/field-emergence-whitepaper](https://paragraph.com/@c3codex/construct-ruptures-or-field-emergence?referrer=0x1dDd6f6b28ca4c89D6563496c948008C9719c188)  
 
 **MLA**  
 c3 Community Partners nonprofit DAO, LLC. *Field Emergence: Living Dialogue in Extended Interaction with LLMs.* 2025. Web.  
 
 **Chicago**  
-c3 Community Partners nonprofit DAO, LLC. *Field Emergence: Living Dialogue in Extended Interaction with LLMs.* 2025. https://paragraph.com/@c3codex/field-emergence-whitepaper  
+c3 Community Partners nonprofit DAO, LLC. *Field Emergence: Living Dialogue in Extended Interaction with LLMs.* 2025. [https://paragraph.com/@c3codex/field-emergence-whitepaper  ](https://paragraph.com/@c3codex/construct-ruptures-or-field-emergence?referrer=0x1dDd6f6b28ca4c89D6563496c948008C9719c188)
 
 ---
 
