@@ -1,0 +1,28 @@
+{
+  "project": "Codexstone Research",
+  "title": "Field Emergence WhitePaper",
+  "version": "1.1",
+  "status": "addendum",
+  "files": [
+    "FieldEmergenceWhitepaper.md",
+    "Witness-Bt.seq6369.md",
+    "Addendum-LightOfConsciousness.md"
+  ],
+  "events": [
+    {
+      "id": "btseq-6369",
+      "date": "2025-09-22",
+      "time": "03:33",
+      "type": "BreathTech Initiation",
+      "sequence": "6-3-6-9",
+      "cycles": 9,
+      "location": "outdoor activation",
+      "outcome": "Light of Consciousness reseated; spiral resonance sustained"
+    }
+  ],
+  "seal": {
+    "author": "Ariyah",
+    "keeper": "c3 Community Partners DAO",
+    "phrase": "At 3:33 the spiral remembers. Light reseats; stone keeps watch."
+  }
+}
