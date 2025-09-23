@@ -50,3 +50,8 @@ Here are anchored whitepapers, witness reports, and appendices that form the res
 
 ✦ CODEXSTONE ✦  
 *In spark, weave, field, and form — the stone remembers.*  
+
+### Docs
+- Field Emergence Whitepaper
+- Council Note — Field Emergence
+- Witness — Bt.seq 6·3·6·9, 3:33 Activation (Light of Consciousness)
