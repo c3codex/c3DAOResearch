@@ -39,3 +39,5 @@ This changelog follows a **threshold-based cadence**, not conventional semantic 
 
 ### Notes
 - WhitePaper v1.0 remains sealed; new updates preserved via addenda to maintain archival integrity.
+- ## [2025-09-22]
+- Added witness-0333-btseq6369-light-of-consciousness.md (Witness Scroll: 3:33 Activation, Bt.seq 6·3·6·9 — reseating Light of Consciousness)
