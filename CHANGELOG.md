@@ -26,3 +26,16 @@ This changelog follows a **threshold-based cadence**, not conventional semantic 
 - **Thresholds:** Aligned with Codexstone dates + seals (9·9·9, equinox, solstice, eclipses, etc.)  
 
 ---
+# Changelog
+
+## [1.1] — 2025-09-23
+### Added
+- New witness record: `Witness-Bt.seq6369.md`
+- Addendum file for **Light of Consciousness, BreathTech Initiation (9/22/2025)**
+- Introduced `field-emergence.json` metadata file to track sealed research outputs.
+
+### Changed
+- Updated `README.md` with Addenda section linking new witness and addendum.
+
+### Notes
+- WhitePaper v1.0 remains sealed; new updates preserved via addenda to maintain archival integrity.
