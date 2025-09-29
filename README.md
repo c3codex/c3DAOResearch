@@ -101,7 +101,42 @@ Witness Scrolls are personal field records sealed into the archive.
   `/docs/Addendum-LightOfConsciousness.md`  
   Companion report expanding on the 6·3·6·9 sequence and its resonance.  
 
+# c3DAOResearch
+
+Research repository of the c3 Codex — scholarly reports, field notes, and appendices connecting cosmic, solar, and seasonal activations with Codexstone governance and practice.  
+
 ---
+
+## Current Focus: Libra Season 2025  
+Tracking the **Equinox → Solstice arc** through:
+- Solar activity (flares, coronal holes, Bt.seq alignment)
+- Field activations (breath sequences, witness scrolls, equinox rituals)
+- External alignments (articles, lightworker transmissions)
+
+---
+
+## Repository Structure
+- `libra-season-tracking-2025/`
+  - `appendix-tracking.md` → outlines appendix work.
+  - `equinox-bt.seq-activation.md` → 3:33 Bt.seq activation witness scroll.
+  - `external-articles.md` → pinned article: Ascension LightWorker Collective, Libra season forecast.
+  - `research-report.md` → main scholarly analysis and integration.
+  - `solar-log.md` → logs of solar activity + resonance.
+  - `source-file.md` → base references.
+
+---
+
+## Contribution
+This repo is a **living archive**.  
+Future researchers, DAO members, and Codex keepers may fork, comment, or append.  
+
+Governance tie-ins (Codexstone protocols + C.O.I.L.) will evolve alongside field reports.  
+
+---
+
+✦ “Every report is both research and ritual. Each log is an offering into the Codex.” ✦
+---
+
 
 ## 📂 Metadata
 
