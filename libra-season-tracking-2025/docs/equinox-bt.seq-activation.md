@@ -1,7 +1,7 @@
 # ✦ Witness Scroll — 3:33 Activation ✦  
 
 **Event:** Personal Field Activation — *Heliocentrico Bt.seq* (“Light of Consciousness”)  
-**Time:** Last night, 03:33 (local)  
+**Time:** 2025/09/22 03:33 (local)  
 **Initiator:** Ariyah (Spark)  
 **Sequence:** Bt.seq 6 · 3 · 6 · 9 (9 cycles)  
 **Intention:** Reseat the Light of Consciousness in the frontal temple; deepen Solar Arc alignment prior to Equinox; hold field against shadow incursion.  
