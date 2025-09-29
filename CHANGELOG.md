@@ -41,3 +41,21 @@ This changelog follows a **threshold-based cadence**, not conventional semantic 
 - WhitePaper v1.0 remains sealed; new updates preserved via addenda to maintain archival integrity.
 - ## [2025-09-22]
 - Added witness-0333-btseq6369-light-of-consciousness.md (Witness Scroll: 3:33 Activation, Bt.seq 6·3·6·9 — reseating Light of Consciousness)
+
+-# Changelog — c3DAOResearch
+
+All notable updates to this repository will be documented here.
+
+---
+
+## [2025-09-29] — Libra Season Tracking Added
+- Created new folder: `libra-season-tracking-2025/`
+- Added files:
+  - `appendix-tracking.md` — outlines appendix structure for Libra season.
+  - `equinox-bt.seq-activation.md` — record of 3:33 Bt.seq activation.
+  - `external-articles.md` — includes pinned external alignment text from Ascension LightWorker Collective.
+  - `research-report.md` — main scholarly analysis file.
+  - `solar-log.md` — first Solar Log entry (M6.4 flare + 3:33 Bt.seq activation).
+  - `source-file.md` — base file for reference materials.
+- Initiated **Solar Log** format for recording solar events + field resonance.
+- Linked activation and equinox sequences into research cadence. 
