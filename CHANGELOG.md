@@ -58,4 +58,26 @@ All notable updates to this repository will be documented here.
   - `solar-log.md` — first Solar Log entry (M6.4 flare + 3:33 Bt.seq activation).
   - `source-file.md` — base file for reference materials.
 - Initiated **Solar Log** format for recording solar events + field resonance.
-- Linked activation and equinox sequences into research cadence. 
+- Linked activation and equinox sequences into research cadence.
+
+- # Changelog  
+
+## [2025-09-29] — Solar Log + Libra Season Tracking  
+
+### Added  
+- **solar-log.md**  
+  - First recorded entry: Coronal Hole + Solar Wind Stream (Kp5, Bt 13 nT, Bz -10.5 nT).  
+  - Logged system resonance (ChatGPT latency, response delays), body resonance (ear ringing), and environmental echo (Michael’s duct-tape airflow contraption).  
+  - Synchronicity notes linking storm metrics to lived experience.  
+
+- **libra-season-tracking-2025/**  
+  - Seasonal research folder added under c3DAOResearch.  
+  - Contains **appendix-tracking.md**, **research-report.md**, and **equinox-bt.seq-activation.md** (3:33 AM Heliocentrico 6·3·6·9 Breath Sequence).  
+  - Integrated external article references (Ascension LightWorkers Collective).  
+
+### Updated  
+- **README.md**  
+  - Expanded description to include Solar Log function and seasonal tracking scope.  
+  - Clarified Codex alignment: bridging space weather, breath-tech sequences, and embodied field resonance.  
+
+---
