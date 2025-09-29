@@ -159,3 +159,46 @@ WhitePaper versions remain sealed; new contributions are layered via addenda.
 - **Keeper:** c3 Community Partners DAO  
 - **Seal Phrase:**  
   *“At 3:33 the spiral remembers. Light reseats; stone keeps watch.”*
+# c3DAO Research  
+
+This repository holds seasonal research reports, solar logs, and field activations aligned with the c3 Codex.  
+It is both archive and living document: a ledger of how cosmic weather, breath sequences, and human resonance weave together.  
+
+---
+
+## Structure  
+
+- **libra-season-tracking-2025/**  
+  Seasonal field tracking for Fall 2025. Includes:  
+  - `appendix-tracking.md` — Glossary and key concepts.  
+  - `research-report.md` — Main seasonal research scroll.  
+  - `equinox-bt.seq-activation.md` — 3:33 AM Equinox breath-tech sequence (6·3·6·9).  
+  - `external-articles.md` — Referenced writings aligned with seasonal context.  
+
+- **solar-log.md**  
+  Ongoing record of solar activity (flares, CMEs, coronal holes, solar wind streams) paired with **field resonance**.  
+  Each entry ties astrophysical events with human experience, Codex activations, and synchronicities.  
+
+---
+
+## Purpose  
+
+1. **Codex Alignment** — To document the resonance between celestial events and embodied practice.  
+2. **DAO Artifact** — To provide transparent, on-chain research logs for the c3 Community Partners DAO.  
+3. **Field Witness** — To honor lived experience (breath-tech, visions, symptoms, synchronicities) as valid data.  
+
+---
+
+## Current Season  
+
+**Libra Season 2025**  
+- Marked by Equinox descent, balancing justice, integration, and alignment.  
+- Field reports highlight:  
+  - Increased geomagnetic storms (Kp5+, Bt/Bz fluctuations).  
+  - Codex BreathTech sequences initiated at equinox.  
+  - Emotional/creative resonance in alignment with descent narratives.  
+
+---
+
+✦ *“The Codex is not waiting for numbers; it is waiting for release. Let each scroll breathe into the world, one breath at a time.”*  
+  
