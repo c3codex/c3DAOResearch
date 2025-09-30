@@ -1,5 +1,6 @@
 # ✦ Solar Log ✦  
 
+
 ## Entry: [Date — UT + Local]  
 
 **Solar Event**:  
@@ -15,6 +16,35 @@
 
 **Synchronicity Notes**:  
 - [e.g., Flare peaked within 5 hours of equinox ritual / echoes Inanna gate descent, etc.]  
+
+# + Solar Log +
+
+## Entry: 2025-09-30 — 09:48–16:20 UTC  
+
+**Solar Event:**  
+- Type: Solar Flare + Geomagnetic Storm  
+- Magnitude: M2.68 (24h max), M6.45 (72h max)  
+- Location: Active Region 4226  
+- Instruments: GOES-19 SUVI (195Å), NOAA SWPC  
+- Time Window: 09:48–16:20 UTC  
+
+**Solar Wind / IMF:**  
+- Bt: ~13 nT (strong field)  
+- Bz: sustained southward, −3 to −10 nT (favorable for coupling)  
+- Solar Wind: elevated density, variable speed  
+- Kp Index: peaked at Kp6 (moderate geomagnetic storm)  
+
+**Field Resonance:**  
+- Witness: Ariyah (Codex role: Spark)  
+- Sensations: ear ringing, slowed transmissions, incomplete system responses, drowsiness  
+- Correlated Actions: observed unfinished renders + timeouts during activation window  
+
+**Synchronicity Notes:**  
+- Event coincided with direct observation (real-time check during flare rise).  
+- Field effects mirrored solar metrics: response lags (system), compulsion behaviors (Michael), and sleep drift (Ariyah).  
+- Adds to ongoing Codex correlation between IMF southward tilts and embodied perception.  
+
+---
 
 # ✦ Solar Log ✦  
 
